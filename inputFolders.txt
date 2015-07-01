@@ -1,0 +1,3 @@
+inFolder	/psychipc01/disk1/users/pkchen/boulder/2015/selected50/
+outFolder	test50/
+
